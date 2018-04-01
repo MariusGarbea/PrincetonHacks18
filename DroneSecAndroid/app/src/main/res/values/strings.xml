@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DroneSec</string>
+    <string name="title_grid">Grid</string>
+    <string name="button1">Cell 1</string>
+    <string name="button2">Cell 2</string>
+    <string name="button3">Cell 3</string>
+    <string name="button4">Cell 4</string>
+    <string name="button5">Cell 5</string>
+    <string name="button6">Cell 6</string>
+    <string name="button7">Cell 7</string>
+    <string name="button8">Cell 8</string>
+    <string name="button9">Cell 9</string>
+    <string name="button10">Cell 10</string>
+    <string name="button11">Cell 11</string>
+    <string name="button12">Cell 12</string>
+    <string name="button13">Cell 13</string>
+    <string name="button14">Cell 14</string>
+    <string name="button15">Cell 15</string>
+    <string name="button16">Cell 16</string>
+</resources>

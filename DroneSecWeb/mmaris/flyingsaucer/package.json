@@ -1,0 +1,21 @@
+{
+  "name": "flyingsaucer",
+  "version": "0.0.0",
+  "description": "",
+  "author": "mmaris <m.mihnea66@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "lib": "^3.0.2"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "mmaris/flyingsaucer",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}

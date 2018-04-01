@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248376421307",
+    "firebase_url": "https://whiteboard-21f79.firebaseio.com",
+    "project_id": "whiteboard-21f79",
+    "storage_bucket": "whiteboard-21f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248376421307:android:a87b5e1d750d0d4d",
+        "android_client_info": {
+          "package_name": "com.dronesec.dronesec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248376421307-968ia3ofsle2rhb7r4ohnbsm80d4g2f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ0lTkM9WK1ZKXmJ3zH6uTCBM-uF8SURc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
